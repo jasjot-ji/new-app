@@ -1,0 +1,1 @@
+export const baseUrl = 'https://marketplaceapi.quadbtech.com/api/v1/seller';

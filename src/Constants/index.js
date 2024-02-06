@@ -1,0 +1,4 @@
+const LOGIN_TOKEN = 'LOGIN_TOKEN';
+const SELLER_INFO = 'SELLER_INFO';
+
+export { LOGIN_TOKEN, SELLER_INFO };
